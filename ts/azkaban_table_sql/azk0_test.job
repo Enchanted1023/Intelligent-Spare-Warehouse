@@ -1,0 +1,5 @@
+type=command
+yarn.cluster=zjyprc-hadoop-spark2.3
+command=bash azk0_test.sh
+user.to.proxy=s_info_algo_app
+kerberos.enable=true
