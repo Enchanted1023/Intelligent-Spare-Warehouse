@@ -1,3 +1,1 @@
-备注
-特征表: hive_zjyprc_hadoop.info_algo_app.smart_transform_time_series_feature_test
-结果表: hive_zjyprc_hadoop.info_algo_app.smart_transform_time_series_forecasting_result_test
+
