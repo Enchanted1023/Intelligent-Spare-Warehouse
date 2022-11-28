@@ -1,0 +1,7 @@
+type=command
+yarn.cluster=zjyprc-hadoop-spark2.3
+command=bash ../bin/feature_engineering.sh ${yarn.cluster} ${env} ${start_date} ${end_date}
+failure.emails=
+user.to.proxy=s_info_algo_app
+kerberos.enable=true
+retries=1

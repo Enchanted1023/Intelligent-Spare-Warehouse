@@ -1,0 +1,7 @@
+type=command
+yarn.cluster=zjyprc-hadoop-spark2.3
+command=bash ../bin/train_and_predict.sh ${yarn.cluster} ${env} ${predict_date}
+failure.emails=
+user.to.proxy=s_info_algo_app
+kerberos.enable=true
+retries=1
